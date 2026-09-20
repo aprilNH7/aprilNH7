@@ -55,18 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aprilnh7&show_icons=true&theme=react&hide_border=true&bg_color=0a0a0a&title_color=silver&icon_color=silver&text_color=c0c0c0" alt="April's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=aprilnh7&theme=black-ice&hide_border=true&background=0a0a0a&stroke=silver&ring=silver&fire=silver&currStreakNum=c0c0c0&sideNums=c0c0c0" alt="GitHub streak" />
-</p>
-
----
-
 ## 🧠 3D Contribution City
 
 <p align="center">
@@ -88,7 +76,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aprilnh7&color=silver&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aprilnh7&color=c0c0c0&style=flat-square" alt="Profile views" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c0c0c0,50:6b7280,100:0a0a0a&height=120&section=footer)
