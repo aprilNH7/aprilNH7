@@ -70,7 +70,7 @@
 <p align="center">
   <a href="https://iqgen.energy" target="_blank"><img src="https://img.shields.io/badge/iqgen.energy-0a0a0a?style=for-the-badge&logoColor=silver" /></a>
   <a href="https://aethora.ai" target="_blank"><img src="https://img.shields.io/badge/aethora.ai-0a0a0a?style=for-the-badge&logoColor=silver" /></a>
-  <a href="https://iquity.ai" target="_blank"><img src="https://img.shields.io/badge/iquity.ai-0a0a0a?style=for-the-badge&logoColor=silver" /></a>
+  <a href="https://iquity.fyi" target="_blank"><img src="https://img.shields.io/badge/iquity.fyi-0a0a0a?style=for-the-badge&logoColor=silver" /></a>
 </p>
 
 ---
