@@ -1,16 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:6b7280,100:c0c0c0&height=220&section=header&text=April%20Nixon&fontSize=60&fontColor=silver&animation=twinkling&fontAlignY=35&desc=Builder%20of%20IQGen%20|%20Aethora%20|%20Iquity&descSize=18&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:6b7280,100:c0c0c0&height=220&section=header&text=Code.%20Create.%20Deploy.&fontSize=60&fontColor=silver&animation=twinkling&fontAlignY=35&desc=Developer%20of%20IQGen%20|%20Aethora%20|%20Iquity&descSize=18&descAlignY=55)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aprilNH7/aprilnh7/main/neural-silver.svg" width="100%" alt="Silver neural connections" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&lines=Founder+%2B+Engineer;Three+brands%2C+one+vision;Shipping+products+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&lines=Full-stack+engineer;Building+across+energy%2C+AI%2C+%26+finance;Shipping+products+that+matter" alt="Typing SVG" />
 </p>
 
 ---
 
-## ⚡ My Companies
+## ⚡ Projects I Develop
 
 <table align="center">
   <tr>
