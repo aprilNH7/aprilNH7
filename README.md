@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:6b7280,100:c0c0c0&height=220&section=header&text=Code.%20Create.%20Deploy.&fontSize=60&fontColor=silver&animation=twinkling&fontAlignY=35&desc=Developer%20of%20IQGen%20|%20Aethora%20|%20Iquity&descSize=18&descAlignY=55)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aprilNH7/aprilNH7/main/neural-silver.svg?v=2" width="100%" alt="Silver neural connections" />
+  <img src="https://raw.githubusercontent.com/aprilNH7/aprilNH7/main/core-3d.svg?v=1" width="360" alt="3D rotating network core" />
 </p>
 
 <p align="center">
